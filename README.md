@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sankalp Bhatt
-- 👀 I’m interested in Many things and coding is one of them.
-- 🌱 I’m currently learning all the technologies attached to the backing services
+- 👀 I like coding. This profile has an open bug: Not been able to add much to my personal github. Hopefully, I will fix this bug soon.
+- 🌱 I’m currently learning micronaut. Trying to explore how we can exptensively and easily use it instead of spring boot.
 - 💞️ 
 - 📫 How to reach me | sankalpbhatt123@gmail.com
 
